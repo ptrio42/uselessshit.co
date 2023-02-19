@@ -42,6 +42,7 @@
     "start": "react-scripts start",
     "build": "node ./build.js",
     "test": "cross-env NODE_ENV=test jasmine",
+    "cy": "npx cypress open",
     "eject": "react-scripts eject",
     "postbuild": "react-snap"
   },
