@@ -1274,7 +1274,9 @@ export const GUIDES: Guide[] = [
             '#### NostrCheck.me',
             'https://nostrcheck.me',
             '#### uselessshit.co',
-            'npub178umpxtdflcm7a08nexvs4mu384kx0ngg9w8ltm5eut6q7lcp0vq05qrg4:f1f9b0996d4ff1bf75e79e4cc8577c89eb633e68415c7faf74cf17a07bf80bd8:pitiunited'
+            'npub178umpxtdflcm7a08nexvs4mu384kx0ngg9w8ltm5eut6q7lcp0vq05qrg4:f1f9b0996d4ff1bf75e79e4cc8577c89eb633e68415c7faf74cf17a07bf80bd8:pitiunited',
+            '#### NIP05.social',
+            'https://nip05.social'
         ],
         updatedAt: '2023-03-24',
         attachedNoteId: NOTES[28],
