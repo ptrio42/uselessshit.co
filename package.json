@@ -42,6 +42,7 @@
     "start": "react-scripts start",
     "build": "node ./build.js",
     "test": "cross-env NODE_ENV=test jasmine",
+    "cy": "npx cypress open",
     "eject": "react-scripts eject",
     "postbuild": "react-snap"
   },
@@ -85,6 +86,7 @@
     "babel-jest": "^29.1.2",
     "babel-preset-react-app": "^10.0.1",
     "cross-env": "^7.0.3",
+    "cypress": "^12.6.0",
     "enzyme": "^3.11.0",
     "graceful-fs": "^4.2.10",
     "ignore-styles": "^5.0.1",
